@@ -83,7 +83,7 @@ It uses Tableau for visual exploration and storytelling, integrating data from m
 
 | Insight | Description |
 |----------|-------------|
-| **1. High-value Neighbourhoods** | Manhattan has the highest average price (~$196), followed by Brooklyn (~$124). |
+| **1. High-value Neighbourhoods** | Manhattan has the highest average price  |
 | **2. Dominant Booking Areas** | Brooklyn and Manhattan together account for ~85% of total bookings. |
 | **3. Seasonal Peak** | Booking volume peaks during June–July, indicating summer travel demand. |
 | **4. Room Type Preferences** | “Entire home/apartment” listings attract the most bookings and revenue. |
