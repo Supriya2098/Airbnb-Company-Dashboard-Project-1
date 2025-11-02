@@ -33,6 +33,7 @@ It uses Tableau for visual exploration and storytelling, integrating data from m
 5. What opportunities exist for pricing and location optimization?
 
 ---
+**Sample Screenshot:**
 ### Dashboard <img width="1204" height="666" alt="Airbnb Company Dashboard Project" src="https://github.com/user-attachments/assets/24ffd859-e0c1-40c4-8daf-b43c5acc46b0" />
 
 ## 🛠️ Tools & Technologies Used
@@ -130,11 +131,11 @@ It uses Tableau for visual exploration and storytelling, integrating data from m
 **Interactive Dashboard (Tableau Public):**  
 👉 [Click here to view the live dashboard](https://public.tableau.com/views/airbnbcompanydashboardproject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Sample Screenshot:**  
+  
 **Author:** Supriya Kusuma 
 **gmail:** supriyakusuma0905@gmail.com
 **linkedln id:** https://www.linkedin.com/in/supriya-kusuma09/
 
-![Airbnb Company Dashboard](dashboard/dashboard_screenshot.png)
+
 
 ---
